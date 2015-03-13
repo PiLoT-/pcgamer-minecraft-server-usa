@@ -1,5 +1,118 @@
 PCGamer Minecraft USA Changelog
 -------------------------------
+
+ 
+M = map, the number after period denotes months of current maps lifetime.
+ 
+V. M6.0215.020
+ 
+* - Updated to Spigot-35348a5-ee6d0fa
+* - Updated Vault
+* - Updated Pex
+* - Updated WE
+* - Updated Logblock
+* - Attempted to Unify Server Announcment colors, currently we have clue announcements and white server restart notifications
+    I'm currently looking at the plugins involved and making them all pink as per M5
+ 
+V. M6.0115.019
+ 
+* - Updated to Spigot-8a983f9-e81edfc
+ 
+V. M6.0115.018
+ 
+* - Implemented idle kicking for staff
+* - re wrote webby's html elements, new background increased sexiness all round. better for 16:9 screens and better readability.
+* - Adde anarchy section of map, and added /rules pvp
+ 
+V. M6.0115.017
+ 
+* - Fixed the issue where butcher commands delete armorstands
+ 
+V. M6.0115.016
+ 
+* - Updated to latest spigot
+* - Fixed PMs not being logged by socialspy
+* - fixed command block disability for OP
+* - fixed b+ being able to use &k
+* - Swapped worth.yml with a better version
+ 
+V. M6.1214.011
+ 
+* - Added the ability for builders to use the WG wand
+* - Readded Colored signs, Balance signs and Disposal signs
+* - Added missing black ink sac to cwools kit
+* - added mod commands
+     /give
+     /item
+     /fireball
+* - added B+ command
+     /ec
+ 
+ 
+V. M6.1214.010
+ 
+* - Updated banhammer Database
+* - changed builder color to light blue
+* - changed modchat names to dpurple
+* - Create new world LB table
+ 
+V. M6.1214.008
+ 
+* - Updated version of Banhammer
+ 
+V. M6.1214.005
+ 
+* - Readded /pay for builders
+* - Readded /sell and /sellhand for builders
+* - Readded /worth for builders
+* - Added /setworth to Mod
+* - Compiled and added the latest spigot 1.8 from sources
+ 
+ 
+ 
+V. M6.1114.003
+ 
+* - Added Vanish
+* - Added Protocolib
+* - Removed Voxelsniper
+ 
+ 
+V. M6.1114.002
+ 
+* - Added plugin IPTracker
+* - Kits added
+     Builder to have access to
+       /kit cobble = 64 cobble limited at once per hour
+       /kit tools = one of each stone tool (pickaxe, axe, sword and shovel) limited once per hour
+ 
+     Builder+ will get the above plus (all limited to once per two hours)
+       /Kit cwool = one stack of each colored wool
+       /kit woolrefills = 128 of White wool
+       /kit sglass = one stack of each colored glass
+       /kit clays = one stack of each colored clay
+ 
+V. M6.1114.001
+ 
+* - Generated new world
+* - Switched from Groupmanger to PEX, all permissions and Inherited perms fixed
+* - Plugins addded and bug checked
+            AdminChat
+            AntiCheat
+            Autorank (Database Broke)
+            Backup
+            BanHammer (NO UUID compatability)
+            Deadbolt (New doors wont lock)
+            Essentials & packages
+            Herochat
+            MuezlieAnnounce
+            PEX
+            SignShop
+            SignShop Hotel
+            Trophyheads
+            Vault
+            WorldBorder
+            WE
+            WG
  
 M = map, the number after period denotes months of current maps lifetime. the next number is revision (number of updates, at the moment as estimate. will be precise after reset)
  
