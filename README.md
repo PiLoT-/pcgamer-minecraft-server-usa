@@ -4,6 +4,10 @@ PCGamer Minecraft USA Changelog
  
 M = map, the number after period denotes months of current maps lifetime.
 
+V. M6.0415.022
+ 
+* - Updated to Spigot-2ec6f06-7722428 (MC1.8.3)
+
 V. M6.0415.021
  
 * - Updated to Spigot-4b89e7b-7d0f836 (MC1.8.3)
