@@ -1,0 +1,38 @@
+[
+  {
+    "uuid": "3f1d5e8c-2f02-3053-bbaf-fa8c8605bf23",
+    "name": "twenty",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "90546362-cc24-43f4-a870-cfff7d3f4687",
+    "name": "Satan",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a98c4b5a-4db7-4449-b5d9-060e78a07c18",
+    "name": "Slee",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a37e9e34-06a2-3cd6-84c0-6a4dca75d126",
+    "name": "zx",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7b57185b-3fd2-4a69-a53e-b95ef896cedc",
+    "name": "AresUK",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "982ec1d9-4253-4d87-85a7-695a14be5f40",
+    "name": "Raz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
