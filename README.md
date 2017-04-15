@@ -1,6 +1,18 @@
 PCGamer Minecraft USA Changelog
 -------------------------------
+M = map, the numbers after the period denote the server version followed by the current upgrade number.
 
+V. M7.1.11.2.2
+
+* - Increased map size to 10,000 x 10,000 blocks.
+* - Have adjusted the worth of many items.
+
+V. M7.1.11.2.1
+
+* - Updated to Spigot-96235ab-2aa5ac6 (MC: 1.11.2)
+* - New map generated, limited to 6,000 x 6,000 blocks.
+* - Updated all plugins to latest version.
+* - Replaced BanHammer with AdvancedBan.
  
 M = map, the number after period denotes months of current maps lifetime.
 
